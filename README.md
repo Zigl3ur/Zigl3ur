@@ -6,4 +6,4 @@
 [![SkillIcons](https://skillicons.dev/icons?i=cs,js,ts,react,tailwind,mysql,docker,linux)](https://skillicons.dev)<br/>
 
 ## My Scrobbles
-<img width="100%" src="https://lastfm-recently-played.vercel.app/api?user=zigl3ur&count=10&width=800&loved=true&show_user=header&footer_style=normal_stats" />
+<img width="100%" src="https://lastfm-recently-played.vercel.app/api?user=zigl3ur&count=6&width=800&loved=true&show_user=header&footer_style=normal_stats" />
