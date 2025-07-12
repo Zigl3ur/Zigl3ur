@@ -2,7 +2,7 @@
 
 **I'm Eden** (aka Zigleur) – I'm a random guy who likes to learn new things about computers. I like coding and self-hosting some stuff. Currently studying at the University of Burgundy.
 
-## My Skills
+## What I like to use
 [![SkillIcons](https://skillicons.dev/icons?i=cs,go,js,ts,react,nextjs,tailwind,postgresql,docker,linux)](https://skillicons.dev)<br/>
 
 ## My Scrobbles
